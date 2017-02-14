@@ -4,12 +4,13 @@ STARTERS
 * Salad
 * Spaghetti
 * Goulashsuppe
+* Escudella
 
 SECOND COURSE
 
 * Filet mignon
-* Scallopini
 * Schnitzel
+* Carn d'olla
 
 DESERT
 
