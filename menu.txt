@@ -2,6 +2,7 @@ STARTERS
 
 * Cabbage soup
 * Salad
+* KartoffelSalad
 * Spaghetti
 * Goulashsuppe
 
@@ -18,4 +19,4 @@ DESERT
 * Fruit
 * Cafe copa
 
-€10 (wines included)
+€10 (wines and sangria included)
