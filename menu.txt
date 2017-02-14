@@ -4,17 +4,13 @@ STARTERS
 * Salad
 * KartoffelSalad
 * Spaghetti
-* Goulashsuppe
 
 SECOND COURSE
 
-* Filet mignon
-* Scallopini
-* Schnitzel
+* Tofu burger
 
 DESERT
 
-* Crema catalana
 * Music
 * Fruit
 * Cafe copa
