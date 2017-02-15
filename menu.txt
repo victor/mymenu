@@ -6,13 +6,13 @@ STARTERS
 * Spaghetti
 * Goulashsuppe
 * Escudella
-* Cocido
 * Sandwich
 * Gazpacho
 
 SECOND COURSE
 
-* Filet mignon
+* Tofu burger
+* Vegan Filet mignon
 * Schnitzel
 * Carn d'olla
 
